@@ -5,5 +5,5 @@ def square_array(array)
     sqr_array << sqr
     array = sqr_array
   end
-
+  return array
 end
