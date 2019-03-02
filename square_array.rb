@@ -4,7 +4,7 @@ def square_array(array)
     sqr = number*number
     sqr_array << sqr
 
-    array = square_array
+    array = sqr_array
   end
   return array
 end
